@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5AF2C6E2-AE02-8350-A4B6-037B96462A0D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/scripts/Moveleft.cs" Line="23" Column="81" />
+      <File FileName="Assets/scripts/SpawnManager.cs" />
+      <File FileName="Assets/scripts/RepeatBackground.cs" />
+      <File FileName="Assets/scripts/PlayerController.cs" Line="55" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jump Milkha jump" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="30b9ea5b-b24d-4a9f-94d6-7f82ec83da0f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
